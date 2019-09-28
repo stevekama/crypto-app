@@ -9,6 +9,7 @@ notifyBtn.addEventListener('click', function(event){
     let win = new BrowserWindow({
         frame:false,
         transparent: true,
+        alwaysOnTop: true,
         width:400,
         height: 200
     });
