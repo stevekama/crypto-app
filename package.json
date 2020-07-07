@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/stevekama/crypto-app#readme",
   "devDependencies": {
-    "electron": "6.0.10"
+    "electron": "7.2.4"
   }
 }
